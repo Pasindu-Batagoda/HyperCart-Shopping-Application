@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "581038640603",
+    "firebase_url": "https://hypercart-a2011.firebaseio.com",
+    "project_id": "hypercart-a2011",
+    "storage_bucket": "hypercart-a2011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581038640603:android:afa7d03beeeedac6",
+        "android_client_info": {
+          "package_name": "com.example.hypercart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581038640603-5fm8h4vm3vfjaivu6ca63n88jqp0lh9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hypercart",
+            "certificate_hash": "e4a154a56d70b29895b6a93921da961b4d139a07"
+          }
+        },
+        {
+          "client_id": "581038640603-gq8l064q7rqbnd1d0oubm5j6lp0iuqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhi70MlaUqmWVXFPKioeUMyGfyIMCPyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581038640603-gq8l064q7rqbnd1d0oubm5j6lp0iuqa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
